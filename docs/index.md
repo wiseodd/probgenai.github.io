@@ -3,7 +3,7 @@ title: ""
 slug: /
 ---
 
-<br />
+# Western CS9840: Probabilistic Generative AI
 
 :::warning
 
@@ -12,6 +12,35 @@ slug: /
 :::
 
 Course website for CS9840: Probabilistic GenAI, Winter 2026.
+Students will learn the _theoretical foundations_ for generative AI.
+
+From chatbots to image generators, Generative AI (GenAI) is reshaping the world. What algorithms and probabilistic principles power this revolution?
+This course introduces the theoretical and algorithmic foundations of GenAI, covering large language models (LLMs) and diffusion models, among more mature methods.
+We will also explore applications in AI for Science, such as drug discovery and weather forecasting.
+
+### Prerequisites
+
+There are no formal prerequisites.
+But, Because GenAI is inherently probabilistic, some basic knowledge of the following is necessary.
+
+:::tip
+Students who are not comfortable with these concepts are **highly encouraged** to read the [D2L book, Chapter 2](https://d2l.ai/chapter_preliminaries/index.html) first and foremost.
+:::
+
+- **Probability/statistics:**
+  - sum, product, and Bayes' rule,
+  - probability distributions (Gaussians, Categorical),
+  - maximum likelihood.
+- **Linear algebra:**
+  - vectors and matrices,
+  - matrices/vectors products.
+  - matrix inversion.
+- **Multivariable calculus:**
+  - partial derivatives & gradients,
+  - multivariable integration.
+- **Machine learning:**
+  - regression, classification,
+  - familiarity with deep learning libraries (code examples are in PyTorch).
 
 ## Schedule
 
@@ -21,10 +50,9 @@ Course website for CS9840: Probabilistic GenAI, Winter 2026.
 - **Tutorial:** Thursdays, 12:30 PM–1:30 PM, MC320.
 - **Office hour:** Thursdays, 1:30 PM–3:00 PM, MC362.
 
-:::
-
 HW must be submitted before the corresponding tutorial.
 For example, HW1 must be submitted before Jan 15, 12:30 PM.
+:::
 
 <br />
 
@@ -62,5 +90,11 @@ For example, HW1 must be submitted before Jan 15, 12:30 PM.
 | Project Final Report       | 30%    | 1     | 30%      |
 | Project Final Presentation | 20%    | 1     | 20%      |
 | **Total**                  | **-**  | **-** | **100%** |
+
+### Final Project
+
+:::tip
+TODO: Lit surveys.
+:::
 
 ## Policies
