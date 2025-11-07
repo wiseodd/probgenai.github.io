@@ -3,7 +3,7 @@ title: ""
 slug: /
 ---
 
-# Western CS9840: Probabilistic Generative AI
+# CS9840: Probabilistic Generative AI
 
 :::warning
 
@@ -24,7 +24,9 @@ There are no formal prerequisites.
 But, Because GenAI is inherently probabilistic, some basic knowledge of the following is necessary.
 
 :::tip
+
 Students who are not comfortable with these concepts are **highly encouraged** to read the [D2L book, Chapter 2](https://d2l.ai/chapter_preliminaries/index.html) first and foremost.
+
 :::
 
 - **Probability/statistics:**
@@ -40,18 +42,21 @@ Students who are not comfortable with these concepts are **highly encouraged** t
   - multivariable integration.
 - **Machine learning:**
   - regression, classification,
+  - neural networks,
+  - gradient descent,
   - familiarity with deep learning libraries (code examples are in PyTorch).
 
 ## Schedule
 
 :::info
 
-- **Lecture:** Tuesdays, 10 AM–12 PM, MC320.
-- **Tutorial:** Thursdays, 12:30 PM–1:30 PM, MC320.
-- **Office hour:** Thursdays, 1:30 PM–3:00 PM, MC362.
+- **Lecture:** Tuesdays, 10 AM–12 PM.
+- **Tutorial:** Thursdays, 12:30 PM–1:30 PM.
+- **Office hour:** Thursdays, 1:30 PM–3:00 PM.
 
 HW must be submitted before the corresponding tutorial.
 For example, HW1 must be submitted before Jan 15, 12:30 PM.
+
 :::
 
 <br />
@@ -75,7 +80,7 @@ For example, HW1 must be submitted before Jan 15, 12:30 PM.
 
 1. Bishop, "Deep Learning: Foundations and Concepts", Springer. 2024. [[Link]](https://www.bishopbook.com/)
 2. Zhang, Lipton, Li, and Smola. "Dive into Deep Learning (D2L)". [[Link]](https://d2l.ai)
-3. Gómez-Bombarelli, Rafael, et al. "Automatic chemical design using a data-driven continuous representation of molecules." ACS Central Science, 4(2). [[Link]](https://pubs.acs.org/doi/10.1021/acscentsci.7b00572)
+3. Gómez-Bombarelli, Rafael, et al. "Automatic chemical design using a data-driven continuous representation of molecules." ACS Central Science 4(2). 2018. [[Link]](https://pubs.acs.org/doi/10.1021/acscentsci.7b00572)
 4. GenCast
 5. Stiennon, et al. "Learning to summarize with human feedback." NeurIPS. 2020.
 6. Lightman, et al. "Let's verify step by step." ICLR. 2023.
@@ -93,8 +98,8 @@ For example, HW1 must be submitted before Jan 15, 12:30 PM.
 
 ### Final Project
 
-:::tip
-TODO: Lit surveys.
-:::
+Students can select from two possible project types:
+
+1.
 
 ## Policies

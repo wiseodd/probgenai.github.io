@@ -15,12 +15,6 @@ module.exports = {
   themeConfig: {
     navbar: {
       title: "CS9840: Probabilistic Generative AI",
-
-      logo: {
-        alt: "Western Logo",
-        src: "img/western.png",
-      },
-
       items: [],
     },
 
