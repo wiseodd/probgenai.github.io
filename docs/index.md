@@ -35,10 +35,10 @@ Students who are not comfortable with these concepts are **highly encouraged** t
   - maximum likelihood.
 - **Linear algebra:**
   - vectors and matrices,
-  - matrices/vectors products.
+  - matrices/vectors products,
   - matrix inversion.
 - **Multivariable calculus:**
-  - partial derivatives & gradients,
+  - partial derivatives, gradients, Jacobians, & Hessians,
   - multivariable integration.
 - **Machine learning:**
   - regression, classification,
@@ -61,20 +61,21 @@ For example, HW1 must be submitted before Jan 15, 12:30 PM.
 
 <br />
 
-| Week | Date   | Lecture                             | Tutorial                     | Resources                                                                   |
-| ---- | ------ | ----------------------------------- | ---------------------------- | --------------------------------------------------------------------------- |
-| 1    | Jan 6  | Introduction                        | Project Idea Showcase        | Bishop 2024, Chapters 2 & 3                                                 |
-| 2    | Jan 13 | Variational Autoencoders            | <span color="red">HW1</span> | Bishop 2024, Chapter 19                                                     |
-| 3    | Jan 20 | Explicit and Implicit Models        | HW2                          | Bishop 2024, Chapters 17 & 18                                               |
-| 4    | Jan 27 | Application: De Novo Drug Discovery | HW3                          |                                                                             |
-| 5    | Feb 3  | Diffusion Models I: Basics          | Project Proposal             | Bishop 2024, Chapter 20                                                     |
-| 6    | Feb 10 | Diffusion Models II: Advanced       | HW4                          | Bishop 2024, Chapter 20                                                     |
-| 7    | Feb 24 | Application: Climate Modeling       | HW5                          |                                                                             |
-| 8    | Mar 3  | LLMs I: Architectures               | HW6                          | Bishop 2024, Chapter 12; D2L Chapter 11                                     |
-| 9    | Mar 10 | LLMs II: Decoding and Reasoning     | Project Feedback             | Bishop 2024, Sec. 12.3.2; D2L Sec. 10.8; Lightman et al., 2023              |
-| 10   | Mar 17 | LLMs III: Finetuning, and Alignment | Project Feedback             | Bishop 2024, Chapter 12; Steinnon et al, NeurIPS 2020; Hu et al., ICLR 2022 |
-| 11   | Mar 24 | Project Presentations               | Selected Topics in GenAI     |                                                                             |
-| 12   | Mar 31 | Project Presentations               | Project Presentations        |                                                                             |
+| Week | Date   | Lecture                               | Tutorial                                        | Resources                                                                   |
+| ---- | ------ | ------------------------------------- | ----------------------------------------------- | --------------------------------------------------------------------------- |
+| 1    | Jan 6  | Introduction & review of fundamentals | Review of fundamentals                          | Bishop 2024, Chapters 2 & 3; D2L, Chapter 2                                 |
+| 2    | Jan 13 | Variational autoencoders              | Review of fundamentals                          | Bishop 2024, Chapter 19; D2L, Chapter 2                                     |
+| 3    | Jan 20 | Explicit and implicit models          | HW 1                                            | Bishop 2024, Chapters 17 & 18                                               |
+| 4    | Jan 27 | Application: De novo drug discovery   | HW 2                                            |                                                                             |
+| 5    | Feb 3  | Diffusion Models I: Introduction      | HW 3                                            | Bishop 2024, Chapter 20                                                     |
+| 6    | Feb 10 | Diffusion Models II: Advanced Topics  | HW 4                                            | Bishop 2024, Chapter 20                                                     |
+| 7    | Feb 17 | **Reading week**                      | **No classes**                                  |                                                                             |
+| 8    | Feb 24 | Application: Climate modeling         | Project proposal                                |                                                                             |
+| 9    | Mar 3  | LLMs I: Architectures                 | HW 5                                            | Bishop 2024, Chapter 12; D2L Chapter 11                                     |
+| 10   | Mar 10 | LLMs II: Decoding and reasoning       | HW 6                                            | Bishop 2024, Sec. 12.3.2; D2L Sec. 10.8; Lightman et al., 2023              |
+| 11   | Mar 17 | LLMs III: Finetuning and alignment    | Selected topics in GenAI                        | Bishop 2024, Chapter 12; Steinnon et al, NeurIPS 2020; Hu et al., ICLR 2022 |
+| 12   | Mar 24 | Project presentations                 | Project presentations                           |                                                                             |
+| 13   | Mar 31 | Project presentations                 | Project presentations. Final report submission. |                                                                             |
 
 ## References
 
@@ -82,9 +83,9 @@ For example, HW1 must be submitted before Jan 15, 12:30 PM.
 2. Zhang, Lipton, Li, and Smola. "Dive into Deep Learning (D2L)". [[Link]](https://d2l.ai)
 3. Gómez-Bombarelli, Rafael, et al. "Automatic chemical design using a data-driven continuous representation of molecules." ACS Central Science 4(2). 2018. [[Link]](https://pubs.acs.org/doi/10.1021/acscentsci.7b00572)
 4. GenCast
-5. Stiennon, et al. "Learning to summarize with human feedback." NeurIPS. 2020.
-6. Lightman, et al. "Let's verify step by step." ICLR. 2023.
-7. Hu, et al. "LoRA: Low-rank adaptation of large language models." ICLR. 2022.
+5. Stiennon, et al. "Learning to summarize with human feedback." NeurIPS. 2020. [[Link]](https://arxiv.org/abs/2009.01325)
+6. Lightman, et al. "Let's verify step by step." ICLR. 2023. [[Link]](https://arxiv.org/abs/2305.20050)
+7. Hu, et al. "LoRA: Low-rank adaptation of large language models." ICLR. 2022. [[Link]](https://arxiv.org/abs/2106.09685)
 
 ## Grading
 
@@ -92,14 +93,8 @@ For example, HW1 must be submitted before Jan 15, 12:30 PM.
 | -------------------------- | ------ | ----- | -------- |
 | Homework (Pass-Fail)       | 5%     | 6     | 30%      |
 | Project Proposal           | 20%    | 1     | 20%      |
-| Project Final Report       | 30%    | 1     | 30%      |
 | Project Final Presentation | 20%    | 1     | 20%      |
+| Project Final Report       | 30%    | 1     | 30%      |
 | **Total**                  | **-**  | **-** | **100%** |
-
-### Final Project
-
-Students can select from two possible project types:
-
-1.
 
 ## Policies
