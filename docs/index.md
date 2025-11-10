@@ -21,7 +21,7 @@ Students will learn the _theoretical foundations_ for generative AI.
 ### Prerequisites
 
 There are no formal prerequisites.
-But, Because GenAI is inherently probabilistic, some basic knowledge of the following is necessary.
+But, since GenAI is inherently probabilistic, some knowledge of the following is necessary.
 
 :::tip
 
