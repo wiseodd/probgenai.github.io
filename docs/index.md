@@ -14,9 +14,9 @@ slug: /
 Course website for CS9840: Probabilistic GenAI, Winter 2026.
 Students will learn the _theoretical foundations_ for generative AI.
 
-From chatbots to image generators, Generative AI (GenAI) is reshaping the world. What algorithms and probabilistic principles power this revolution?
-This course introduces the theoretical and algorithmic foundations of GenAI, covering large language models (LLMs) and diffusion models, among more mature methods.
-We will also explore applications in AI for Science, such as drug discovery and weather forecasting.
+> From chatbots to image generators, Generative AI (GenAI) is reshaping the world. What algorithms and probabilistic principles power this revolution?
+> This course introduces the theoretical and algorithmic foundations of GenAI, covering large language models (LLMs) and diffusion models, among more mature methods.
+> We will also explore applications in AI for Science, such as drug discovery and weather forecasting.
 
 ### Prerequisites
 
@@ -61,19 +61,19 @@ For example, HW1 must be submitted before Jan 15, 12:30 PM.
 
 <br />
 
-| Week | Date   | Lecture                               | Tutorial                                        | Resources                                                                   |
+| Week | Date   | Lecture (Tue)                         | Tutorial (Thu)                                  | Resources                                                                   |
 | ---- | ------ | ------------------------------------- | ----------------------------------------------- | --------------------------------------------------------------------------- |
 | 1    | Jan 6  | Introduction & review of fundamentals | Review of fundamentals                          | Bishop 2024, Chapters 2 & 3; D2L, Chapter 2                                 |
 | 2    | Jan 13 | Variational autoencoders              | Review of fundamentals                          | Bishop 2024, Chapter 19; D2L, Chapter 2                                     |
 | 3    | Jan 20 | Explicit and implicit models          | HW 1                                            | Bishop 2024, Chapters 17 & 18                                               |
-| 4    | Jan 27 | Application: De novo drug discovery   | HW 2                                            |                                                                             |
-| 5    | Feb 3  | Diffusion Models I: Introduction      | HW 3                                            | Bishop 2024, Chapter 20                                                     |
-| 6    | Feb 10 | Diffusion Models II: Advanced Topics  | HW 4                                            | Bishop 2024, Chapter 20                                                     |
+| 4    | Jan 27 | Application: De novo drug discovery   | HW 2                                            | Gómez-Bombarelli, et al., 2018                                              |
+| 5    | Feb 3  | Diffusion Models I: Introduction      | Project info session                            | Bishop 2024, Chapter 20                                                     |
+| 6    | Feb 10 | Diffusion Models II: Advanced Topics  | Project Q&A                                     | Bishop 2024, Chapter 20                                                     |
 | 7    | Feb 17 | **Reading week**                      | **No classes**                                  |                                                                             |
-| 8    | Feb 24 | Application: Climate modeling         | Project proposal                                |                                                                             |
-| 9    | Mar 3  | LLMs I: Architectures                 | HW 5                                            | Bishop 2024, Chapter 12; D2L Chapter 11                                     |
-| 10   | Mar 10 | LLMs II: Decoding and reasoning       | HW 6                                            | Bishop 2024, Sec. 12.3.2; D2L Sec. 10.8; Lightman et al., 2023              |
-| 11   | Mar 17 | LLMs III: Finetuning and alignment    | Selected topics in GenAI                        | Bishop 2024, Chapter 12; Steinnon et al, NeurIPS 2020; Hu et al., ICLR 2022 |
+| 8    | Feb 24 | Application: Climate modeling         | Project proposal deadline & HW 3                |                                                                             |
+| 9    | Mar 3  | LLMs I: Architectures                 | Stylistic scientific writing 101                | Bishop 2024, Chapter 12; D2L Chapter 11                                     |
+| 10   | Mar 10 | LLMs II: Decoding and reasoning       | Selected topics in GenAI                        | Bishop 2024, Sec. 12.3.2; D2L Sec. 10.8; Lightman et al., 2023              |
+| 11   | Mar 17 | LLMs III: Finetuning and alignment    | HW 4                                            | Bishop 2024, Chapter 12; Steinnon et al, NeurIPS 2020; Hu et al., ICLR 2022 |
 | 12   | Mar 24 | Project presentations                 | Project presentations                           |                                                                             |
 | 13   | Mar 31 | Project presentations                 | Project presentations. Final report submission. |                                                                             |
 
@@ -91,10 +91,10 @@ For example, HW1 must be submitted before Jan 15, 12:30 PM.
 
 | Type                       | Weight | Count | Total    |
 | -------------------------- | ------ | ----- | -------- |
-| Homework (Pass-Fail)       | 5%     | 6     | 30%      |
-| Project Proposal           | 20%    | 1     | 20%      |
+| Homework                   | 10%    | 4     | 40%      |
+| Project Proposal           | 15%    | 1     | 15%      |
 | Project Final Presentation | 20%    | 1     | 20%      |
-| Project Final Report       | 30%    | 1     | 30%      |
+| Project Final Report       | 25%    | 1     | 25%      |
 | **Total**                  | **-**  | **-** | **100%** |
 
 ## Policies
