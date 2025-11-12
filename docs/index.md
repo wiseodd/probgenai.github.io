@@ -25,7 +25,8 @@ But, since GenAI is inherently probabilistic, some knowledge of the following is
 
 :::tip
 
-Students who are not comfortable with these concepts are **highly encouraged** to read the [D2L book, Chapter 2](https://d2l.ai/chapter_preliminaries/index.html) first and foremost.
+There will be review sessions (Weeks 1 & 2).
+However, students who are not comfortable with these concepts are **highly encouraged** to independently read the [D2L book, Chapter 2](https://d2l.ai/chapter_preliminaries/index.html).
 
 :::
 
@@ -50,9 +51,9 @@ Students who are not comfortable with these concepts are **highly encouraged** t
 
 :::info
 
-- **Lecture:** Tuesdays, 10 AM–12 PM.
-- **Tutorial:** Thursdays, 12:30 PM–1:30 PM.
-- **Office hour:** Thursdays, 1:30 PM–3:00 PM.
+- **Lecture:** Tuesdays, 10 AM–12 PM @ MC 320.
+- **Tutorial:** Thursdays, 12:30 PM–1:30 PM @ MC 320.
+- **Office hour:** Thursdays, 1:30 PM–3:00 PM @ MC 362.
 
 :::
 
