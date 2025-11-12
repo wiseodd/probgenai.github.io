@@ -7,7 +7,7 @@ slug: /
 
 :::warning
 
-**UNDER CONSTRUCTION!**
+**UNDER CONSTRUCTION**
 
 :::
 
@@ -90,12 +90,15 @@ Students who are not comfortable with these concepts are **highly encouraged** t
 1. Bishop, "Deep Learning: Foundations and Concepts", Springer. 2024. [[Link]](https://www.bishopbook.com/)
 2. Zhang, Lipton, Li, and Smola, "Dive into Deep Learning (D2L)". [[Link]](https://d2l.ai)
 3. Gómez-Bombarelli, et al., "Automatic chemical design using a data-driven continuous representation of molecules." ACS Central Science 4(2). 2018. [[Link]](https://pubs.acs.org/doi/10.1021/acscentsci.7b00572)
-4. Price, et al., ``Probabilistic weather forecasting with machine learning'', Nature 637(8044), 2025. [[Link]](https://www.nature.com/articles/s41586-024-08252-9)
+4. Price, et al., "Probabilistic weather forecasting with machine learning", Nature 637(8044), 2025. [[Link]](https://www.nature.com/articles/s41586-024-08252-9)
 5. Stiennon, et al., "Learning to summarize with human feedback", NeurIPS, 2020. [[Link]](https://arxiv.org/abs/2009.01325)
 6. Lightman, et al., "Let's verify step by step." ICLR. 2023. [[Link]](https://arxiv.org/abs/2305.20050)
 7. Hu, et al., "LoRA: Low-rank adaptation of large language models", ICLR, 2022. [[Link]](https://arxiv.org/abs/2106.09685)
 
 ## Grading
+
+Homework assignment sheets will be available on OWL Brightspace.
+Refer to the [course outline](/cs9840-courseoutline-W2026.pdf) for detailed information.
 
 | Type                       | Weight | Count | Total    |
 | -------------------------- | ------ | ----- | -------- |
@@ -107,8 +110,10 @@ Students who are not comfortable with these concepts are **highly encouraged** t
 
 ## Policies
 
-:::warning
+- GenAI such as LLM chatbots **must not** be used to generate HW solutions and reports/slides.
+- Acceptable use of GenAI: (Must be disclosed as at the end of each document.)
+  - Grammar correction.
+  - "Study Mode": [https://openai.com/index/chatgpt-study-mode/](https://openai.com/index/chatgpt-study-mode/).
+- Late submissions will **not** be marked since HWs and project are done in a group.
 
-TODO!
-
-:::
+Refer to the [course outline](/cs9840-courseoutline-W2026.pdf) for more info and other polices.
