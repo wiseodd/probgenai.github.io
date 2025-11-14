@@ -5,18 +5,17 @@ slug: /
 
 # CS9840: Probabilistic Generative AI
 
-:::warning
-
-**UNDER CONSTRUCTION**
-
-:::
-
-Course website for CS9840: Probabilistic GenAI, Winter 2026.
-Students will learn the _theoretical foundations_ for generative AI.
+Summarized course website for CS9840: Probabilistic GenAI, Winter 2026.
+Students will learn the **theoretical foundations** for generative AI.
 
 > From chatbots to image generators, Generative AI (GenAI) is reshaping the world. What algorithms and probabilistic principles power this revolution?
 > This course introduces the theoretical and algorithmic foundations of GenAI, covering large language models (LLMs) and diffusion models, among more mature methods.
 > We will also explore applications in AI for Science, such as drug discovery and weather forecasting.
+
+:::info
+
+Detailed course information is on [OWL Brightspace](https://westernu.brightspace.com/d2l/home/168599) (available starting December 2025) and the [course outline](/cs9840-courseoutline-W2026.pdf).
+:::
 
 ### Prerequisites
 
@@ -98,6 +97,8 @@ However, students who are not comfortable with these concepts are **highly encou
 
 ## Grading
 
+Students will be asked to form groups of 2 in the early weeks of the course.
+All homeworks and project are to be done in group.
 Homework assignment sheets will be available on OWL Brightspace.
 Refer to the [course outline](/cs9840-courseoutline-W2026.pdf) for detailed information.
 
