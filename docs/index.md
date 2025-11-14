@@ -3,9 +3,9 @@ title: ""
 slug: /
 ---
 
-# CS9840: Probabilistic Generative AI
+# CS 9840: Probabilistic Generative AI
 
-Summarized course website for CS9840: Probabilistic GenAI, Winter 2026.
+Summarized course website for CS 9840: Probabilistic GenAI, Winter 2026.
 Students will learn the **theoretical foundations** for generative AI.
 
 > From chatbots to image generators, Generative AI (GenAI) is reshaping the world. What algorithms and probabilistic principles power this revolution?
