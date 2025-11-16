@@ -8,7 +8,7 @@ module.exports = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/favicon.svg",
+  favicon: "img/logo-gaussians.svg",
   organizationName: "wiseodd",
   projectName: "CS9840: Probabilistic Generative AI",
 
