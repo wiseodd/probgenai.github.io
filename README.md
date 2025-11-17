@@ -1,6 +1,6 @@
-# Western CS9840: Probabilistic Generative AI
+# Western CS 9840: Probabilistic Generative AI
 
-Course website for Western University's CS9840: Probabilistic Generative AI course.
+Course website for Western University's CS 9840: Probabilistic Generative AI course.
 
 ## Development
 
