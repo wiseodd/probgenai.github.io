@@ -50,9 +50,9 @@ However, students who are not comfortable with these concepts are **highly encou
 
 :::info
 
-- **Lecture:** Tuesdays, 10 AM–12 PM @ MC 320.
-- **Tutorial:** Thursdays, 12:30 PM–1:30 PM @ MC 320.
-- **Office hour:** Thursdays, 1:30 PM–3:00 PM @ MC 362.
+- **Lecture:** Tuesdays, 10 AM–12 PM.
+- **Tutorial:** Thursdays, 12:30 PM–1:30 PM.
+- **Office hour:** Thursdays, 1:30 PM–3:00 PM.
 
 :::
 
