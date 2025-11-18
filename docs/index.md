@@ -58,21 +58,21 @@ However, students who are not comfortable with these concepts are **highly encou
 
 <br />
 
-| Week | Date   | Lecture (Tue)                         | Tutorial (Thu)                          | Resources                                                                   |
-| ---- | ------ | ------------------------------------- | --------------------------------------- | --------------------------------------------------------------------------- |
-| 1    | Jan 6  | Introduction & review of fundamentals | Review of fundamentals                  | Bishop 2024, Chapters 2 & 3; D2L, Chapter 2                                 |
-| 2    | Jan 13 | Variational autoencoders              | Review of fundamentals                  | Bishop 2024, Chapter 19; D2L, Chapter 2                                     |
-| 3    | Jan 20 | Explicit and implicit models          | HW 1                                    | Bishop 2024, Chapters 17 & 18                                               |
-| 4    | Jan 27 | Application: De novo drug discovery   | HW 2                                    | Gómez-Bombarelli, et al., 2018                                              |
-| 5    | Feb 3  | Diffusion Models I: Introduction      | Project info session                    | Bishop 2024, Chapter 20                                                     |
-| 6    | Feb 10 | Diffusion Models II: Advanced Topics  | Project proposal deadline & project Q&A | Bishop 2024, Chapter 20                                                     |
-| 7    | Feb 17 | **Reading week**                      | **No classes**                          |                                                                             |
-| 8    | Feb 24 | Application: Climate modeling         | HW 3                                    |                                                                             |
-| 9    | Mar 3  | LLMs I: Architectures                 | Stylistic scientific writing 101        | Bishop 2024, Chapter 12; D2L Chapter 11                                     |
-| 10   | Mar 10 | LLMs II: Decoding and reasoning       | HW 4                                    | Bishop 2024, Sec. 12.3.2; D2L Sec. 10.8; Lightman et al., 2023              |
-| 11   | Mar 17 | LLMs III: Finetuning and alignment    | Selected topics in GenAI                | Bishop 2024, Chapter 12; Steinnon et al, NeurIPS 2020; Hu et al., ICLR 2022 |
-| 12   | Mar 24 | Project presentations                 | Project presentations                   |                                                                             |
-| 13   | Mar 31 | Project presentations                 | Project presentations                   |                                                                             |
+| Week | Date   | Lecture (Tue)                            | Tutorial (Thu)                                     | Resources                                                                    |
+| ---- | ------ | ---------------------------------------- | -------------------------------------------------- | ---------------------------------------------------------------------------- |
+| 1    | Jan 6  | Introduction, probability review, admins | Linear algebra & calculus review                   | Bishop 2024, Chapters 2 & 3; D2L, Chapter 2                                  |
+| 2    | Jan 13 | Variational autoencoders                 | Neural networks review                             | Bishop 2024, Chapter 19; D2L, Chapter 2                                      |
+| 3    | Jan 20 | Explicit and implicit likelihood models  | HW 1                                               | Bishop 2024, Chapters 17 & 18                                                |
+| 4    | Jan 27 | Application: De novo drug discovery      | HW 2                                               | Gómez-Bombarelli et al., ACS 2018                                            |
+| 5    | Feb 3  | Diffusion Models I: Introduction         | Project info session                               | Bishop 2024, Chapter 20                                                      |
+| 6    | Feb 10 | Diffusion Models II: Advanced Topics     | Project proposal deadline & project Q&A            | Bishop 2024, Chapter 20                                                      |
+| 7    | Feb 17 | **Reading week**                         | **No classes**                                     |                                                                              |
+| 8    | Feb 24 | Application: Climate modeling            | HW 3                                               | Price et al., Nature 2025                                                    |
+| 9    | Mar 3  | LLMs I: Architectures                    | Stylistic scientific writing & how to research 101 | Bishop 2024, Chapter 12; D2L Chapter 11                                      |
+| 10   | Mar 10 | LLMs II: Decoding and reasoning          | HW 4                                               | Bishop 2024, Sec. 12.3.2; D2L Sec. 10.8; Lightman et al., ICLR 2023          |
+| 11   | Mar 17 | LLMs III: Finetuning and alignment       | Selected topics in GenAI                           | Bishop 2024, Chapter 12; Steinnon et al., NeurIPS 2020; Hu et al., ICLR 2022 |
+| 12   | Mar 24 | Project presentations                    | Project presentations                              |                                                                              |
+| 13   | Mar 31 | Project presentations                    | Project presentations                              |                                                                              |
 
 <br />
 
