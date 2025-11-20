@@ -63,7 +63,7 @@ However, students who are not comfortable with these concepts are **highly encou
 | 1    | Jan 6  | Introduction, probability review, admins | Linear algebra & calculus review                   | Bishop 2024, Chapters 2 & 3; D2L, Chapter 2                                  |
 | 2    | Jan 13 | Variational autoencoders                 | Neural networks review                             | Bishop 2024, Chapter 19; D2L, Chapter 2                                      |
 | 3    | Jan 20 | Explicit and implicit likelihood models  | HW 1                                               | Bishop 2024, Chapters 17 & 18                                                |
-| 4    | Jan 27 | Application: De novo drug discovery      | HW 2                                               | Gómez-Bombarelli et al., ACS 2018                                            |
+| 4    | Jan 27 | Application: De novo molecular discovery | HW 2                                               | Gómez-Bombarelli et al., ACS 2018                                            |
 | 5    | Feb 3  | Diffusion Models I: Introduction         | Project info session                               | Bishop 2024, Chapter 20                                                      |
 | 6    | Feb 10 | Diffusion Models II: Advanced Topics     | Project proposal deadline & project Q&A            | Bishop 2024, Chapter 20                                                      |
 | 7    | Feb 17 | **Reading week**                         | **No classes**                                     |                                                                              |
