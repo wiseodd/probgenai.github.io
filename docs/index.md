@@ -52,7 +52,7 @@ However, students who are not comfortable with these concepts are **highly encou
 
 - **Lecture:** Tuesdays, 10 AM–12 PM.
 - **Tutorial:** Thursdays, 12:30 PM–1:30 PM.
-- **Office hour:** Thursdays, 1:30 PM–3:00 PM.
+- **Office hour:** Thursdays, 2:00 PM–3:00 PM.
 
 :::
 
